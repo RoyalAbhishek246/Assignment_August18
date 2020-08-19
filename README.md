@@ -2,9 +2,8 @@
 
 A new Flutter project.
 <img src="https://github.com/RoyalAbhishek246/Assignment_August18/blob/master/homepage.png" width="250">
-![Screenshot](/homepage.png)
-![Screenshot](/drawer.png)
-![Screenshot](/homepage.png)
+<img src="https://github.com/RoyalAbhishek246/Assignment_August18/blob/master/homepage2.png" width="250">
+<img src="https://github.com/RoyalAbhishek246/Assignment_August18/blob/master/drawer.png" width="250">
 
 ## Getting Started
 
