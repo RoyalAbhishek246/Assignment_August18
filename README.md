@@ -1,9 +1,9 @@
 # aug18
 
 A new Flutter project.
-![GitHub Logo](/homepage.png)
-![GitHub Logo](/drawer.png)
-![GitHub Logo](/homepage.png)
+![Screenshot](/homepage.png)
+![Screenshot](/drawer.png)
+![Screenshot](/homepage.png)
 
 ## Getting Started
 
