@@ -2,7 +2,7 @@
 
 A new Flutter project.
 ![GitHub Logo](/homepage.png)
-Format: ![Alt Text](url)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
