@@ -1,6 +1,7 @@
 # aug18
 
 A new Flutter project.
+<img src="https://github.com/RoyalAbhishek246/Assignment_August18/blob/master/homepage.png" width="250">
 ![Screenshot](/homepage.png)
 ![Screenshot](/drawer.png)
 ![Screenshot](/homepage.png)
