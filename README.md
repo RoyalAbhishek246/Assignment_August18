@@ -2,8 +2,8 @@
 
 A new Flutter project.
 ![GitHub Logo](/homepage.png)
-(/drawer.png)
-(/homepage.png)
+![GitHub Logo](/drawer.png)
+![GitHub Logo](/homepage.png)
 
 ## Getting Started
 
