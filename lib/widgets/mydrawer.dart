@@ -24,7 +24,7 @@ class MyDrawer extends StatelessWidget {
               style: TextStyle(fontWeight: FontWeight.w400),
             ),
             currentAccountPicture: CircleAvatar(
-              radius: 20,
+              radius: 21,
               backgroundColor: Colors.black,
               child: CircleAvatar(
                 radius: 33,
